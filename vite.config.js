@@ -3,7 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://github.com/Baghel-Amardeep1908/ToDo---ReactJS.git",
-
+  base: "https://baghel-amardeep1908.github.io/ToDo---ReactJS/",
   plugins: [react()],
 });
